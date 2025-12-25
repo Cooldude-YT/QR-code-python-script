@@ -51,6 +51,7 @@ Each tool is:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
+```
 
 ## Legal Notice
 This project is licensed for use, not for resale.
