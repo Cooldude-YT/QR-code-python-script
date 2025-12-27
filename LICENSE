@@ -1,19 +1,13 @@
+Kuroi Biz Commercial Use License (KBCL)
 
----
+Copyright (c) 2025 Kuroi Biz
 
-## 📜 LICENSE (Generic – reusable)
-
-```text
-MIT License with Commercial Use Restriction
-
-Copyright (c) 2025 Kuroi Hub
-
-Permission is hereby granted to use, copy, and modify this software
-for personal or commercial output generation.
+Permission is granted to use, copy, and modify this software
+for personal use and for generating commercial output.
 
 Restrictions:
-1. The source code may NOT be resold, sublicensed, or redistributed
-   as a standalone or bundled paid product.
-2. Attribution and watermark must be preserved.
+1. The source code may NOT be sold, sublicensed, or redistributed,
+   either standalone or bundled, as a paid or free product.
+2. Attribution and any included watermark must be preserved.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
