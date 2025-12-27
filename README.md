@@ -1,4 +1,4 @@
-# Kuroi Hub — Free Python CLI Tools
+# Kuroi Dev — Free Python CLI Tools
 
 A collection of **simple, offline-first Python CLI utilities** built for
 low-spec machines and practical workflows.
