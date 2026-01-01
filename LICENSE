@@ -1,13 +1,42 @@
-Kuroi Biz Commercial Use License (KBCL)
+🔒 Kuroi Biz Commercial Use License (KBCL)
 
 Copyright (c) 2025 Kuroi Biz
 
-Permission is granted to use, copy, and modify this software
-for personal use and for generating commercial output.
+1. Definitions
 
-Restrictions:
-1. The source code may NOT be sold, sublicensed, or redistributed,
-   either standalone or bundled, as a paid or free product.
-2. Attribution and any included watermark must be preserved.
+“Software” refers to all HTML, CSS, Tailwind components, templates, layouts, and related files provided by Kuroi Biz.
+
+“Commercial Output” means end products such as websites, landing pages, or applications created using the Software.
+
+“Source Code” means the original or modified files provided by Kuroi Biz.
+
+2. Permissions
+
+Permission is granted to use, copy, and modify the Software for:
+
+Personal use
+
+Creating Commercial Output for yourself or clients
+
+3. Restrictions
+
+You may NOT:
+
+Sell, sublicense, share, or redistribute the Source Code, in whole or in part, whether free or paid.
+
+Bundle the Software into templates, UI kits, generators, or similar competing products.
+
+Remove or obscure any required attribution or watermark included with the Software.
+
+4. Attribution
+
+Any attribution or watermark included with the Software must remain intact within the source files.
+No public UI attribution is required unless explicitly stated.
+
+5. Termination
+
+Any violation of this license will automatically terminate all rights granted under this license.
+
+6. Warranty
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
